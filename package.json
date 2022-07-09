@@ -1,0 +1,34 @@
+{
+  "name": "vicon",
+  "version": "0.0.1",
+  "description": "Icons JavaScript Library for vuejs",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs",
+    "vue",
+    "icon",
+    "icons",
+    "javascript",
+    "library",
+    "package",
+    "vicon",
+    "vIcon",
+    "Vicon",
+    "VIcon"
+  ],
+  "author": "Ali Khalouf",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "2.x"
+  },
+  "dependencies": {
+    "csstype": "^3.1.0",
+    "vue": "2.x"
+  },
+  "devDependencies": {
+    "@vue/babel-helper-vue-jsx-merge-props": "^1.2.1"
+  }
+}
